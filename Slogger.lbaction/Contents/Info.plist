@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>baseball-99091_1280.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.tandot.LaunchBar.action.Slogger</string>
+	<key>CFBundleName</key>
+	<string>Slogger</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBAuthor</key>
+		<string>Dave Mee</string>
+		<key>LBEmail</key>
+		<string>davemee@gmail.com</string>
+		<key>LBSummary</key>
+		<string>Runs Slogger. Slogger is expected to be a bash script at ~/.bin/slogger - edit the script if this is not the case. This is a very minimal and quick demonstration action.</string>
+		<key>LBTwitter</key>
+		<string>@davemee</string>
+		<key>LBWebsite</key>
+		<string>http://davemee.com/</string>
+	</dict>
+	<key>LBMinimumLaunchBarVersion</key>
+	<integer>6</integer>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBResultType</key>
+			<string>unknown</string>
+			<key>LBRunInBackground</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.sh</string>
+		</dict>
+	</dict>
+	<key>NSHumanReadableCopyright</key>
+	<string>GPL 2</string>
+</dict>
+</plist>
