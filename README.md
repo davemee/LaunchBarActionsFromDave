@@ -8,7 +8,7 @@ Some actions may need customising to your local system - check below for their r
 
 ## Say In Korean
 
-*Say In Korean* uses OS X's text to speach engine to vocalise any text passed to it. You will need to install the Yuna voice - you can do this in Launchbar by searching for "DICTSPEE" to pull up the Dictation and Speech Preferences pane, moving to the "Text to Speech" tab, clicking the "System Voice" menu then picking "Customize...", then activating "Yuna". This will then download the voice files.
+*Say In Korean* uses OS X's text to speech engine to vocalise any text passed to it - ideally, Korean Hangeul. You will need to install the Yuna voice - you can do this in Launchbar by searching for "DICTSPEE" to pull up the Dictation and Speech Preferences pane, moving to the "Text to Speech" tab, clicking the "System Voice" menu then picking "Customize...", then activating "Yuna". This will then download the voice files.
 
 This does not change your system default voice settings when used.
 
